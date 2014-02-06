@@ -1,0 +1,13 @@
+  ! mapa z labelu okrajove podminky hrany na okrajovou podminku
+  ! neni-li index uveden jde o vnitrni hranu
+  (11:16) = 1       ! vnejsi hranice
+  (17:20) = 2       ! prvni elektroda
+  (21,28,29,30) = 3 ! druha elektroda
+  (22,31,32,33) = 4 ! treti elektroda
+  (23,34,35,36) = 5 ! ctvrta elektroda
+  (24,37,38,39) = 6 ! pata elektroda
+  (25,40,41,42) = 7 ! sesta elektroda
+  (26,43,44,45) = 8 ! sedma elektroda
+  (27,46,47,48) = 9 ! osma elektroda
+  (51:130) = 10 !deska
+
